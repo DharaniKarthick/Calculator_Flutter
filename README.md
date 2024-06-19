@@ -1,4 +1,4 @@
-# Hello World
+# Calculator
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
@@ -17,3 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Screenshots
+
+![image](https://github.com/DharaniKarthick/Calculator_Flutter/assets/78732926/db99399a-7f8f-403b-a11a-cf03949d4c73)
